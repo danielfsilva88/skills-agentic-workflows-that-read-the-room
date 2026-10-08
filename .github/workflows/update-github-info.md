@@ -24,6 +24,8 @@ safe-outputs:
     reviewers: [mona]
     allowed-files:
       - site/content/github-info.md
+
+model: gpt-4.1
 ---
 
 # Update GitHub Info
