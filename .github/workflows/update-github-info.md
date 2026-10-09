@@ -21,7 +21,6 @@ network:
 safe-outputs:
   create-pull-request:
     max: 1
-    reviewers: [mona]
     allowed-files:
       - site/content/github-info.md
 
